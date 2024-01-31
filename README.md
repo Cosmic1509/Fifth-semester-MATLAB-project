@@ -24,9 +24,27 @@ The results which will be decoded can have an accurate approach to 3D image proc
 - I have used a CT Chest models and have observed it in Volume Viewer in MATLAB. The opacity and Image Intensity of the model can be altered by the graph on the right hand side. There are many tools in MATLAB to see the Models in certain contrasts for clear visualization and identification of any discrepancies. In Volume Viewer in the rendering editor panel, we can change the rendering style of the model which are – Volume Rendering, Maximum Intensity Rendering and Isotropic Rendering.
 The Colour map of the model can also be changed for visualization of the model in different contrasts. There is free movement and rendering of the three dimensional models in MATLAB which makes it convenient for study of the abnormalities and organ.
 
+![image](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/a5709176-7210-4558-a0d4-0d8eccc98d0a)
+
+
 **Volume rendering Schematic:**
 
 - In my project I performed Volumetric Semantic Segmentation on a three dimensional model where Volume image segmentation is a manual or automatic procedure that can be used to section out large portions of the volume that one considers uninteresting before rendering, the amount of calculations that have to be made by ray casting or texture blending can be significantly reduced.
 Here, I have identified a tumor in a human brain three dimensional model. In this tool the images of the model will be in the form of slices. There are a total of 155 slices in the 3-D brain model. In this model each and every slice shows an image of the brain in detail, all the 155 slices are continuous shots of the brain under a MRI scan. In this tool, we can paint out labels of the tumor and brain observed in the slices.
 - Label 1 can be named as brain and Label 2 can be named as tumor, both can be drawn out accordingly with the pain tool.
 Once we have identified the tumor and brain we can manually interpolate then and merge the two different labeled slice regions together and interpolate them. After interpolation the part from beginning slice to ending slice shows the tumor highlighted. With this we can identify the tumors in the brain and highlight them for further study.
+
+![region 1 Manual interpolation](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/5204e006-3fb3-4b6f-bc72-314a957b8bb8)
+
+
+**SOFTWARE/HARDWARE USED:**
+- MATLAB and Simulink 9.9.0
+- Windows 10 laptop/computer with MATLAB
+- Image processing toolbox within MATLAB
+
+![image](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/5e38d93b-787d-4e76-9287-854bc8b64461)
+
+
+
+
+
