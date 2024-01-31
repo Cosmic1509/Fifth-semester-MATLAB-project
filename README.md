@@ -1,3 +1,5 @@
+# IMAGE PROCESSING USING MATLAB ANALYTICS WITH 3D DCT METHODOLOGIES
+## Introduction:
 - With the progressing software we can see the everyday advancements in image processing applications which are expanding towards the various other operations. 
 In the real-time world we can observe that 2D and 3D image processing is available and its implementation is in a wide range. 
 Here, we will be using MATLAB software analogy to produce and evaluate 3D images. 
