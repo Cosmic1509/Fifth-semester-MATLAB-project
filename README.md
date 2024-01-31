@@ -28,8 +28,12 @@ The Colour map of the model can also be changed for visualization of the model i
 
 ![image](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/a5709176-7210-4558-a0d4-0d8eccc98d0a)
 
+![lungs 2](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/b4260f76-721c-4544-ba2e-e4ca91f165bc)
+
+![sliced panel](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/c5caa2fc-59ab-482b-8544-dc181d4f5544)
 
 ## VOLUME SCHEMATIC SEGMENTATION:
+
 
 - In my project I performed Volumetric Semantic Segmentation on a three dimensional model where Volume image segmentation is a manual or automatic procedure that can be used to section out large portions of the volume that one considers uninteresting before rendering, the amount of calculations that have to be made by ray casting or texture blending can be significantly reduced.
 Here, I have identified a tumor in a human brain three dimensional model. In this tool the images of the model will be in the form of slices. There are a total of 155 slices in the 3-D brain model. In this model each and every slice shows an image of the brain in detail, all the 155 slices are continuous shots of the brain under a MRI scan. In this tool, we can paint out labels of the tumor and brain observed in the slices.
