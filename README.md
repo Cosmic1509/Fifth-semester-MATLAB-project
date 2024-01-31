@@ -42,9 +42,12 @@ Once we have identified the tumor and brain we can manually interpolate then and
 
 ![62 slice paint brush of labelling brain](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/964183dd-0ff3-4e7e-ab54-1c86da1a37d6)
 
+
 ![region 1 Manual interpolation](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/5204e006-3fb3-4b6f-bc72-314a957b8bb8)
 
-![region 1 Manual interpolation](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/277d0e9c-2d5c-4d6b-a730-174d31ea0b03)
+
+![Slice 53 Brain image](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/3c2da0f8-7f31-441e-8a24-8faf2435728f)
+
 
 ![after manual int](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/c2cdb928-32cc-4566-9676-66879c49439f)
 
