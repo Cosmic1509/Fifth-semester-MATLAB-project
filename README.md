@@ -44,7 +44,12 @@ Once we have identified the tumor and brain we can manually interpolate then and
 
 ![image](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/5e38d93b-787d-4e76-9287-854bc8b64461)
 
-
+**EXPERIMENTAL SETUP:**
+- Firstly open MATLAB and in the command prompt you can type your code. But before running your code, import an image into MATLAB by using import command and directory of the image preceding it. Which you can process with the functions in MATLAB.
+- Certain functions can be accessed within the apps section in MATLAB and the process can be executed.
+- Firstly image must be imported then determination of the size of the image using _“imshow(V(:,:,100),[])”._ Further we must determine the App we want to use in MATLAB by specifying the app name and project file variable name inside brackets.
+_Ex: “volumeSegmentation(V)”.
+_
 
 
 
