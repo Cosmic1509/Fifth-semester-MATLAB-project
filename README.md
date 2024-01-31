@@ -20,6 +20,21 @@ The results which will be decoded can have an accurate approach to 3D image proc
 
 - In the object space approach, the contributions of voxels, cells, or kernels are projected onto the image plane, whereas in the image space approach ray tracing to perform the source-attenuation integral is carried out for each pixel on the image plane. Accelerated methods have been proposed including fast algorithms that build additional data-structure prior to rendering under the assumption that there is sufficient memory to hold the data-structure. Multidimensional variants of the various DCT types follow straightforwardly from the one-dimensional definitions: they are simply a separable product (equivalently, a composition) of DCTs along each dimension
 
+## SOFTWARE/HARDWARE USED:
+- MATLAB and Simulink 9.9.0
+- Windows 10 laptop/computer with MATLAB
+- Image processing toolbox within MATLAB
+
+![image](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/5e38d93b-787d-4e76-9287-854bc8b64461)
+
+## EXPERIMENTAL SETUP:
+- Firstly open MATLAB and in the command prompt you can type your code. But before running your code, import an image into MATLAB by using import command and directory of the image preceding it. Which you can process with the functions in MATLAB.
+- Certain functions can be accessed within the apps section in MATLAB and the process can be executed.
+- Firstly image must be imported then determination of the size of the image using  _“imshow(V(:,:,100),[])”._
+-  Further we must determine the App we want to use in MATLAB by specifying the app name and project file variable name inside brackets.
+  
+_Ex: “volumeSegmentation(V)”._
+
 ## VOLUME RENDERING:
 
 - The volume Viewer in MATLAB is a combination of technologies used in computer graphics and scientific visualisation to build a 2D projection from a discretely sampled 3D data set is known as volume rendering it can be used to observe medical X-rays and models of the organs of the body in different contrasts and also can be useful for viewing a collection of 2D slice images from an MRI, CT or a Micro CT scanner for a 3D data set.
@@ -52,20 +67,6 @@ Once we have identified the tumor and brain we can manually interpolate then and
 ![after manual int](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/c2cdb928-32cc-4566-9676-66879c49439f)
 
 
-## SOFTWARE/HARDWARE USED:
-- MATLAB and Simulink 9.9.0
-- Windows 10 laptop/computer with MATLAB
-- Image processing toolbox within MATLAB
-
-![image](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/5e38d93b-787d-4e76-9287-854bc8b64461)
-
-## EXPERIMENTAL SETUP:
-- Firstly open MATLAB and in the command prompt you can type your code. But before running your code, import an image into MATLAB by using import command and directory of the image preceding it. Which you can process with the functions in MATLAB.
-- Certain functions can be accessed within the apps section in MATLAB and the process can be executed.
-- Firstly image must be imported then determination of the size of the image using  _“imshow(V(:,:,100),[])”._
--  Further we must determine the App we want to use in MATLAB by specifying the app name and project file variable name inside brackets.
-  
-_Ex: “volumeSegmentation(V)”._
 
 
 
