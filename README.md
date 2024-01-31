@@ -67,6 +67,6 @@ Once we have identified the tumor and brain we can manually interpolate then and
 ![after manual int](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/c2cdb928-32cc-4566-9676-66879c49439f)
 
 
-
+## FOR DETAILED DESCRIPTION REFER TO THE RESERACH PAPER ATTATCHED WITHIN THIS REPOSITORY
 
 
