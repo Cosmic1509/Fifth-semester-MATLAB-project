@@ -40,7 +40,13 @@ Here, I have identified a tumor in a human brain three dimensional model. In thi
 - Label 1 can be named as brain and Label 2 can be named as tumor, both can be drawn out accordingly with the pain tool.
 Once we have identified the tumor and brain we can manually interpolate then and merge the two different labeled slice regions together and interpolate them. After interpolation the part from beginning slice to ending slice shows the tumor highlighted. With this we can identify the tumors in the brain and highlight them for further study.
 
+![62 slice paint brush of labelling brain](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/964183dd-0ff3-4e7e-ab54-1c86da1a37d6)
+
 ![region 1 Manual interpolation](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/5204e006-3fb3-4b6f-bc72-314a957b8bb8)
+
+![region 1 Manual interpolation](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/277d0e9c-2d5c-4d6b-a730-174d31ea0b03)
+
+![after manual int](https://github.com/Cosmic1509/Fifth-semester-MATLAB-project/assets/82835887/c2cdb928-32cc-4566-9676-66879c49439f)
 
 
 ## SOFTWARE/HARDWARE USED:
